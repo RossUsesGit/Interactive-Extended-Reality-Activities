@@ -11,19 +11,19 @@
   <img src="flyingkirby.gif" width="100%" height="400px" style="object-fit: cover;">
 </div>
 
-# About this Repository
+# ❓ About this Repository
 
 <div align="center">
   <p> This repository contains all of the files and projects related to the subject CPE 411 - Interactive Extended Reality.</p>
 </div>
 
-# Repository Contents
+# 📋 Repository Contents
 
 <div align="center">
 <p> As of December 11 2025, there are no activities uploaded in this repository yet. </p>
 </div>
 
-# My Skills
+# 💪 My Skills
 
 ## 💻 Programming & Development
 
@@ -45,8 +45,8 @@
 <a href="https://www.spaceappschallenge.org/2025/find-a-team/tachyoneurons/?tab=project" target="_blank">
   <img src="spaceappslogo.png" width="60" alt="Project VITAL">
 </a>
-<a href="RossUsesGit/Cheffeur-Food-App.git" target="_blank">
-  <img src="cheffeurlogo.png" width="120" alt="CheffeurFoodApp">
+<a href="https://github.com/RossUsesGit/Cheffeur-Food-App.git" target="_blank">
+  <img src="cheffeurlogo.png" width="60" alt="CheffeurFoodApp">
 </a>
 </div>
 
