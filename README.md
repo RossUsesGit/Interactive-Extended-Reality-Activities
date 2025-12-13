@@ -1,9 +1,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Monospace&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=CPE+411+-+Interactive+Extended+Reality+Activities;by+Ross+Andrew+Bulaong" alt="Typing Header" />
-  </h1>
-
+ <h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Monospace&size=30&duration=3000&pause=800&color=%23FFB7C5&center=true&vCenter=true&width=900&lines=CPE+411+-+Interactive+Extended+Reality+Activities;by+Ross+Andrew+Bulaong" alt="Typing Header" />
+</h1>
 </div>
 
 <div align="center">
@@ -55,11 +53,19 @@
 
 # 📈 My Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RossUsesGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RossUsesGit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RossUsesGit&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RossUsesGit&layout=compact&langs_count=6&theme=tokyonight"
+       width="450" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RossUsesGit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+       width="450" height="150" alt="stats graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RossUsesGit&radius=16&theme=tokyo-night&area=true"
+       width="900" height="300" alt="activity-graph graph" />
+</p>
+
 
 # 🎶 My Spotify Recently 
 <p align="center">
