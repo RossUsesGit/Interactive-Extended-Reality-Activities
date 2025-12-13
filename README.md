@@ -14,33 +14,36 @@
 # ❓ About this Repository
 
 <div align="center">
-  <p> This repository contains all of the files and projects related to the subject CPE 411 - Interactive Extended Reality.</p>
+  <p> This repository contains all of the files and projects related to the subject<i> CPE 411 - Interactive Extended Reality. </i></p>
 </div>
 
 # 📋 Repository Contents
 
 <div align="center">
-<p> As of December 11 2025, there are no activities uploaded in this repository yet. </p>
+<p> This README.md File (Seatwork 1) </p>
 </div>
 
 # 💪 My Skills
 
-## 💻 Programming & Development
+### 💻 Programming & Development
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/96/python.png" width="60" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/96/html-5.png" width="60" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/96/css3.png" width="60" /></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/color/96/sql.png" width="60" /></a>
 </div>
 
-## 🎨 Design & Prototyping
+### 🎨 Design & Prototyping
 
 <div align="center">
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/fluency/96/figma.png" width="60" /></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://img.icons8.com/color/96/canva.png" width="60" /></a>
+  <a href="https://carrd.co" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/carrd.svg" width="60" alt="Carrd Logo"/></a>
 </div>
 
-## 🏆 Notable Projects
+
+### 🏆 Notable Projects
 <div align="center">
 <a href="https://www.spaceappschallenge.org/2025/find-a-team/tachyoneurons/?tab=project" target="_blank">
   <img src="spaceappslogo.png" width="60" alt="Project VITAL">
@@ -49,6 +52,17 @@
   <img src="cheffeurlogo.png" width="60" alt="CheffeurFoodApp">
 </a>
 </div>
+
+# 🎶 My Spotify Recently 
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315tudyygkmjmmo6xmq7lzdf4sci" alt="Alt text">
+</p>
+
+# 👀 Profile Views
+<div align="center">
+  <img src="https://count.getloli.com/@:RossUsesGit?theme=capoo-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
 
 
 
