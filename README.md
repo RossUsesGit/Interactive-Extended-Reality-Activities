@@ -37,7 +37,7 @@
 <div align="center">
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/fluency/96/figma.png" width="60" /></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://img.icons8.com/color/96/canva.png" width="60" /></a>
-  <a href="https://carrd.co" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/carrd.svg" width="60" alt="Carrd Logo"/></a>
+  <a href="https://carrd.co" target="_blank"><img src="carddlogo.png" width="60" alt="Carrd Logo"/></a>
 </div>
 
 
